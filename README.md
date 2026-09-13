@@ -2,6 +2,7 @@
 Plantify is a mobile plant-care application that helps users explore plants and access essential care information. Built with React Native and Firebase, it provides user authentication and stores personalized plant data securely.
 Group Members Name and roles
 Sehrish Jabeen Project Manager
+Yumna Noor 55950 Plan Project BSSE-7
 Sundas Masood  Requirement Gathering
 Maryam Sana    Design Implementation
 Madeeha Naeem  Development
