@@ -4,5 +4,5 @@ Group Members Name and roles
 Sehrish Jabeen Project Manager
 Sundas Masood  Requirement Gathering
 Maryam Sana    Design Implementation
-Madeeha Naeem  Development
+Madeeha Naeem  Development i made changes in this readme file and commit them into guithub
 Laiba Jamil    Testing
