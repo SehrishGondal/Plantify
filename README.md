@@ -5,4 +5,4 @@ Sehrish Jabeen Project Manager
 Sundas Masood  Requirement Gathering
 Maryam Sana    Design Implementation
 Madeeha Naeem  Development
-Laiba Jamil    Testing
+Laiba Jamil  55132  Testing BSSE-7
