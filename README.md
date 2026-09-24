@@ -6,3 +6,8 @@ Sundas Masood  Requirement Gathering
 Maryam Sana 53732   Design Implementation BSSE-7
 Madeeha Naeem  Development
 Laiba Jamil  55132  Testing BSSE-7
+## Docker Setup ###
+Build Docker Image To build the Docker image,
+run: docker build -t plantify .
+### Run Docker Container To run the Docker container,
+use: docker run -d -p 8080:80 --name plantify-container
