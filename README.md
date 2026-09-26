@@ -4,7 +4,7 @@ Group Members Name and roles
 Sehrish Jabeen Project Manager
 Sundas Masood   56623 BSSE-7 Requirement Gathering
 Maryam Sana 53732   Design Implementation BSSE-7
-Madeeha Naeem  Development
+Madeeha Naeem  Development Team member of this guithub collaboration
 Laiba Jamil  55132  Testing BSSE-7
 ## Docker Setup ###
 Build Docker Image To build the Docker image,
