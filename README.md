@@ -19,3 +19,8 @@ Build the Docker image using:
 
 ```bash
 docker build -t my-app .
+ 
+
+## Built and configured the Docker image.
+## Set up the Plantify repository on Docker Hub.
+## Updated the project README documentation.
