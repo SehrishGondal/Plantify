@@ -18,4 +18,4 @@ Laiba Jamil  55132  Testing BSSE-7
 Build the Docker image using:
 
 ```bash
-docker build -t my-app .
+docker build -t plantify .
