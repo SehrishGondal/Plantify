@@ -19,3 +19,4 @@ Build the Docker image using:
 
 ```bash
 docker build -t plantify .
+Testing GitHub webhook with Jenkins CI.
